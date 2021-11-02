@@ -1,0 +1,65 @@
+.logo{
+    margin-left:30%;
+}
+.form{
+    margin-left:30%;
+}
+.form button{
+    position: relative;
+}
+.container{
+    margin: 0 auto;
+    width:960px;
+   
+}
+
+.kutu1{
+    width: 500px;;
+    height:100px;
+   margin-right:60%;
+   padding-left: 10%;
+    background-color: #75eeda;
+    float:left;
+    
+}
+
+ a:hover{
+    color:red;
+}
+ a:link{
+    color:blue;
+}
+ a:visited{
+    color:purple;
+}
+.kutu2{
+    width:500px;
+    height:100px;
+    margin-left:35%;
+    padding-left: 10%;
+    position: fixed;
+    background-color: #70ccc2;
+    float:left;
+}
+.kutu3{
+    width:500px;
+    height:100px;
+    background-color:  #62b3aa;
+    margin-left:65%; 
+    padding-left: 10%;
+    
+    position:fixed;
+    float:right;
+}
+.form2{
+    margin:0 auto;
+}
+.orta{
+    margin: 0 auto;
+    width:95%;
+}
+footer {
+
+    margin-left:auto;
+    text-align: center;
+}
